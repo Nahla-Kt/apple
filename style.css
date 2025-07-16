@@ -73,7 +73,7 @@
 }
 .container{
     margin-top: -550px;
-    margin-left: 570px;
+    margin-left: 520px;
 }
 .first{
     width: 70px;
@@ -111,8 +111,8 @@ margin-top: -50px;
     height: 35px;
     color: white;
     padding-top: 9px;
-    margin-left: 600px;
-    margin-top: 20px;
+    margin-left: 530px;
+    margin-top: 30px;
     font-size: 18px;
 }
 .ishop{
@@ -121,14 +121,314 @@ margin-top: -50px;
     border-color: rgb(0 113 227);
     color: rgb(0 113 227);
     width: 130px;
-    height: 30px;
-    padding-top: 5px;
-    margin-left: 750px;
-    margin-top: 20px;
+    height: 35px;
+    padding-top: 9px;
+    margin-left: 680px;
     font-size: 18px;
-    margin-top: -40px;
+    margin-top: -43px;
 }
 .ishop:hover{
     background-color: rgb(0 113 227);
     color: white;
+}
+.secmore{
+     border-radius: 40px;
+    background-color:  rgb(0 113 227);
+    width: 100px;
+    height: 35px;
+    color: white;
+    padding-top: 9px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 220px;
+    padding-left: 20px;
+}
+.buy2{
+     border: 2px solid;
+    border-radius: 40px;
+    border-color: rgb(0 113 227);
+    color: rgb(0 113 227);
+    width: 50px;
+    height: 35px;
+    padding-top: 9px;
+    margin-left: 150px;
+    font-size: 18px;
+    margin-top: -43px;
+   margin-left: 350px;
+   padding-left: 20px;
+}
+.buy2:hover{
+     background-color: rgb(0 113 227);
+    color: white;
+}
+.image3{
+    border: 2px solid;
+    color: white;
+    width: 50%;
+    height: 520px;
+    background-image: url(ipadpro.jpg);
+    background-size: 650px;
+    background-position: bottom;
+}
+.pro{
+    font-size: 40px;
+   margin-left: 250px;
+   margin-top: 40px;
+}
+.thin{
+    font-size: 25px;
+    margin-left: 130px;
+}
+.built{
+    margin-top: 280px;
+    margin-left: 230px;
+    color:  rgb(0 113 227);
+}
+.more3{
+     border-radius: 40px;
+    background-color:  rgb(0 113 227);
+    width: 100px;
+    height: 35px;
+    color: white;
+    padding-top: 9px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 250px;
+    padding-left: 20px;
+}
+.buy3{
+  border: 2px solid;
+    border-radius: 40px;
+    border-color: rgb(0 113 227);
+    color: rgb(0 113 227);
+    width: 50px;
+    height: 35px;
+    padding-top: 9px;
+    margin-left: 150px;
+    font-size: 18px;
+    margin-top: -43px;
+   margin-left: 380px;
+   padding-left: 20px;
+}
+.buy3:hover{
+     background-color: rgb(0 113 227);
+    color: white;
+}
+.img4{
+    width: 50%;
+    height: 520px;
+    background-image: url(pro2.png);
+    color: white;
+     background-size: 920px;
+    background-position: top;
+    margin-left: 10px;
+}
+.pro2{
+    margin-left: 230px;
+    font-size: 38px;
+    padding-top: 350px;
+}
+.aid{
+    margin-left: 200px;
+    font-size: 22px;
+}
+.center2{
+    display: flex;
+    margin-top: 10px;
+}
+.watch{
+    display: flex;
+    font-size: 30px;
+    margin-left: 250px;
+    padding-top: 50px;
+}
+.more4{
+      border-radius: 40px;
+    background-color:  rgb(0 113 227);
+    width: 100px;
+    height: 35px;
+    color: white;
+    padding-top: 9px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 230px;
+    padding-left: 20px;
+}
+.buy4{
+  border: 2px solid;
+    border-radius: 40px;
+    border-color: rgb(0 113 227);
+    color: rgb(0 113 227);
+    width: 50px;
+    height: 35px;
+    padding-top: 9px;
+    margin-left: 150px;
+    font-size: 18px;
+    margin-top: -43px;
+   margin-left: 360px;
+   padding-left: 20px;
+}
+.buy4:hover{
+     background-color: rgb(0 113 227);
+    color: white;
+}
+.series{
+    margin-left: 290px;
+    font-size: 15px;
+}
+.classic{
+    font-size: 25px;
+    margin-left: 250px;
+}
+.img5{
+    width: 50%;
+    height: 520px;
+    background-image: url(WhatsApp\ Image\ 2025-07-16\ at\ 14.25.27_c32e3685.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.fit{
+    display: flex;
+    font-size: 40px;
+    margin-left: 250px;
+    padding-top: 50px;
+    color:  rgb(245, 245, 247);
+}
+.motion{
+    font-size: 20px;
+    margin-left: 150px;
+    color:  rgb(245, 245, 247);
+}
+.more5{
+     border-radius: 40px;
+    background-color: rgb(245, 245, 247);
+    width: 100px;
+    height: 30px;
+    color: black;
+    padding-top: 9px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 230px;
+    padding-left: 20px;
+}
+.try{
+     border: 2px solid;
+    border-radius: 40px;
+    border-color: rgb(245, 245, 247);
+    color: rgb(245, 245, 247);
+    width: 100px;
+    height: 30px;
+    padding-top: 9px;
+    margin-left: 150px;
+    font-size: 18px;
+    margin-top: -43px;
+   margin-left: 360px;
+   padding-left: 20px;
+}
+.try:hover{
+    color: black;
+    background-color:  rgb(245, 245, 247);
+}
+.img6{
+     width: 50%;
+    height: 520px;
+    background-image: url(WhatsApp\ Image\ 2025-07-16\ at\ 14.35.19_8b127c5e.jpg);
+    background-size: 670px;
+    background-position: bottom;
+    margin-left: 10px;
+}
+.center3{
+    display: flex;
+    margin-top: 10px;
+}
+.trade{
+     display: flex;
+    font-size: 35px;
+    margin-left: 250px;
+    padding-top: 50px;
+}
+.you{
+     font-size: 20px;
+    margin-left: 190px;
+}
+.high{
+     font-size: 20px;
+    margin-left: 210px;
+}
+.mate{
+    border-radius: 40px;
+    background-color:  rgb(0 113 227);
+    width: 150px;
+    height: 30px;
+    color: white;
+    padding-top: 10px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 230px;
+    padding-left: 20px;
+}
+.img7{
+         width: 50%;
+    height: 520px;
+    background-image: url(WhatsApp\ Image\ 2025-07-16\ at\ 15.04.06_75d8bc8f.jpg);
+    background-size: 680px;
+    background-position: bottom;
+    margin-left: 10px;
+}
+.card{
+      display: flex;
+    font-size: 35px;
+    margin-left: 250px;
+    padding-top: 50px;
+}
+.up{
+      font-size: 20px;
+    margin-left: 190px;
+}
+.every{
+      font-size: 20px;
+    margin-left: 230px;
+}
+.more6{
+      border-radius: 40px;
+    background-color:  rgb(0 113 227);
+    width: 100px;
+    height: 30px;
+    color: white;
+    padding-top: 9px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 190px;
+    padding-left: 20px;
+}
+.now{
+     border: 2px solid;
+    border-radius: 40px;
+    border-color: rgb(0 113 227);
+    color: rgb(0 113 227);
+    width: 100px;
+    height: 30px;
+    padding-top: 9px;
+    margin-left: 150px;
+    font-size: 18px;
+    margin-top: -43px;
+   margin-left: 320px;
+   padding-left: 20px;
+}
+.now:hover{
+     background-color: rgb(0 113 227);
+    color: white;
+}
+.img8{
+           width: 50%;
+    height: 520px;
+    background-image: url(WhatsApp\ Image\ 2025-07-16\ at\ 15.04.06_b36bb155.jpg);
+    background-size: 670px;
+    background-position: bottom;
+    margin-left: 10px;
+}
+.center4{
+    display: flex;
+    margin-top: 10px;
+    margin-left: -10px;
 }
