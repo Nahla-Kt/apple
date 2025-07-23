@@ -1,7 +1,7 @@
 *{
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-.nav{
+.noon{
     display: flex;
     justify-content: space-evenly;
     height: 20px;
@@ -77,7 +77,7 @@
     background-image: url(WhatsApp\ Image\ 2025-07-12\ at\ 12.58.02_4e171808.jpg);
     margin-top: 20px;
 }
-.container{
+.hair{
     margin-top: -550px;
     margin-left: 520px;
 }
@@ -387,6 +387,10 @@ margin-top: -50px;
     margin-left: 250px;
     padding-top: 50px;
 }
+.car img{
+    width: 50px;
+    height: 50px;
+}
 .up{
       font-size: 20px;
     margin-left: 190px;
@@ -438,3 +442,696 @@ margin-top: -50px;
     margin-top: 10px;
     margin-left: -10px;
 }
+.store{
+    font-size: 50px;
+    padding-top: 60px;
+    padding-left: 150px;
+    margin-top: 20px;
+}
+.gray{
+    background-color:  rgb(245, 245, 247);
+}
+.apple-store{
+    padding-left: 1200px;
+    margin-top: -140px;
+    width: 50px;
+    height: 50px;
+}
+.apple-store img{
+    width: 50px;
+    height: 50px;
+}
+.story img{
+width: 50px;
+height: 50px;
+padding-left: 1200px;
+padding-top: 20px;
+border-radius: 100%;
+}
+.nahla:hover{
+    text-decoration: underline;
+}
+.nahla{
+    margin-top: 10px;
+}
+.linu{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    background-image: url(store-card-40-iphone-16-pro-202409_GEO_US.jpg);
+    background-position: bottom;
+    background-size: 430px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu1{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-macbook-air-202503.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu2{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-bts-offer-featured-202505.jpg);
+    background-position: bottom;
+    background-size: 430px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu3{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-ipad-air-202503.jpg);
+    background-position: bottom;
+    background-size: 430px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.linu4{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-watch-s10-202409.jpg);
+    background-position: bottom;
+    background-size: 430px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu5{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-iphone-16e-202502_GEO_US.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+ .linu6{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-ipad-202503.jpg);
+    background-position: bottom;
+    background-size: 430px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+ 
+.linu7{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-mac-studio-202503.jpg);
+    background-position: bottom;
+    background-size: 430px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu8{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-iphone-16-202409_GEO_US.jpg);
+    background-position: bottom;
+    background-size: 430px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu9{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-watch-ultra-202409_GEO_US.jpg);
+    background-position: bottom;
+    background-size: 430px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.linu10{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-watch-bands-202503.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.linu11{
+    height: 500px;
+    width: 450px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-specialist-help-202506.jpg);
+    background-position: bottom;
+    background-size: 520px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.linu12{
+    height: 500px;
+    width: 450px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-specialist-video-202409.jpg);
+    background-position: bottom;
+    background-size: 530px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.linu13{
+    height: 500px;
+    width: 450px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-taa-202505.jpg);
+    background-position: bottom;
+    background-size: 530px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.linu14{
+    height: 500px;
+    width: 450px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-TAA-202310.jpg);
+    background-position: bottom;
+    background-size: 530px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.linu15{
+    height: 500px;
+    width: 450px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-personal-setup-202408_GEO_US.jpg);
+    background-position: bottom;
+    background-size: 520px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.linu16{
+    height: 500px;
+    width: 450px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-genius-202108.jpg);
+    background-position: bottom;
+    background-size: 520px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.linu17{
+    height: 230px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu18{
+    height: 230px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu19{
+    height: 230px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu20{
+    height: 230px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu21{
+    height: 230px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.linu22{
+    height: 230px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.store1{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-accessories-story-202503.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store2{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 131438.png);
+    background-position: fixed;
+    background-size: 360px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store3{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 132417.png);
+    background-position: top;
+    background-size: 380px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store4{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 132549.png);
+    background-position: top;
+    background-size: 360px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store5{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 133210.png);
+    background-position: top;
+    background-size: 357px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store6{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 133537.png);
+    background-position: top;
+    background-size: 365px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store7{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 165309.png);
+    background-position: top;
+    background-size: 350px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store8{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 165742.png);
+    background-position: top;
+    background-size: 357px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store9{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(MDFV4.jpg);
+    background-position: center;
+    background-size: 420px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store10{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-accessories-explore-202503.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store11{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-apple-music-202412.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store12{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 173438.png);
+    background-position: top;
+    background-size: 330px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store13{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 173447.png);
+    background-position: top;
+    background-size: 330px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store14{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 171720.png);
+    background-position: top;
+    background-size: 340px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store15{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 171733.png);
+    background-position: top;
+    background-size: 350px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store16{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 171743.png);
+    background-position: top;
+    background-size: 320px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store17{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 171755.png);
+    background-position: top;
+    background-size: 320px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store18{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 171807.png);
+    background-position: top;
+    background-size: 350px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.store19{
+    height: 500px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(Screenshot\ 2025-07-22\ 171816.png);
+    background-position: top;
+    background-size: 320px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store20{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-apple-intelligence-202503.jpg);
+    background-position: bottom;
+    background-size: 530px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store21{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-todayatapple-camp-202506.jpg);
+    background-position: bottom;
+    background-size: 530px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store22{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-subscriptions-202108_GEO_US.jpg);
+    background-position: bottom;
+    background-size: 530px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store23{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-applecare-202503.jpg);
+    background-position: bottom;
+    background-size: 530px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} 
+.store24{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-applepay-202503_GEO_US.jpg);
+    background-position: bottom;
+    background-size: 530px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store25{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-50-applepay-202503_GEO_US.jpg);
+    background-position: bottom;
+    background-size: 530px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store26{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(iphone-card-40-carriertrade-202409.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store27{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-bts-edu-macbook-air-ipad-air-202503.jpg);
+    background-position: bottom;
+    background-size: 400px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store28{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-refurb-202408.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store29{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-business-202506.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store30{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-gov-202503.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.store31{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-image: url(store-card-40-veteran-202503.jpg);
+    background-position: bottom;
+    background-size: 450px;
+    padding-left: 20px;
+    padding-top: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}  
+.hey{
+    font-size: 13px;
+}
+.state{
+     width: 120px;
+     height: 40px;
+     border-radius: 30px;
+     text-align: center;
+     background-color:  rgb(0 113 227);
+     color: white;
+     padding-top: 10px;
+    margin-left: 100px;
+    margin-top: 30px;
+    }
+    .lap{
+        width: 300px;
+        height: 40px;
+        border-radius: 30px;
+        display: flex;
+        justify-content: space-evenly;
+        padding-top: 15px;
+        background-color: rgb(232 232 237);
+        margin-left: 100px;
+        margin-top: 100px;
+    }
